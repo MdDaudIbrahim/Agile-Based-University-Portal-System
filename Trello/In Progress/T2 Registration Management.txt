@@ -1,3 +1,9 @@
 
 Status: In Progress
 Assigned to: DAUD IBRAHIM
+As a Student, I want to register for courses so that I can enroll in a semester
+As a Student, I want to submit a drop application so that I can remove a course
+As a Student, I want to view my registered courses so that I can track my enrollment
+As a System Admin, I want to manage registrations so that all enrollment data is accurate
+As a System Admin, I want to view registration records so that I can monitor student enrollments
+As a System Admin, I want to approve/reject drop applications so that course changes are controlled
