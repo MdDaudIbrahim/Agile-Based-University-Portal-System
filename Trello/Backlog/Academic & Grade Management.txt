@@ -1,0 +1,11 @@
+Description
+As a Student, I want to view the available course list so that I can browse courses offered this semester
+As a Student, I want to register for courses online so that I can enroll for the upcoming semester
+As a Student, I want to submit a drop application so that I can remove a course I no longer wish to take
+As a Faculty, I want to view my assigned courses so that I can manage my teaching responsibilities
+As a Faculty, I want to upload course materials and assignments so that students can access resources
+As a Faculty, I want to record and update student grades so that results are reflected in the portal
+As a Student, I want to submit assignments through the portal so that I can hand in coursework online
+As a Student, I want to view my grades so that I can track my academic performance
+As a Student, I want to track my academic progress so that I can monitor my standing towards graduation
+As a System Admin, I want to add, update, and remove courses so that the course catalogue stays accurate

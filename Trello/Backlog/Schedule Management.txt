@@ -1,0 +1,4 @@
+Description
+As a University Admin, I want to create and update class schedules so that students and faculty have accurate timetables
+As a Student or Faculty, I want to view my class timetable so that I can plan my daily activities
+As any User, I want to receive schedule change notifications so that I am always informed of updates

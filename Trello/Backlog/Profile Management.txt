@@ -1,0 +1,7 @@
+Description
+As a Student, I want to create a new account so that I can enroll in the system
+As any User, I want to login with username & password so that the system can authenticate me
+As any User, I want to view my profile details so that I can see my registered information
+As any User, I want to update my profile information so that I can correct wrong data
+As any User, I want to change my password so that my account stays secure
+As any User, I want to recover my forgotten password via OTP so that I don't lose access
