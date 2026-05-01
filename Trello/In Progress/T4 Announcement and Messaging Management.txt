@@ -1,0 +1,6 @@
+Assigned to: MD Jisan Ahmmed Jim
+ID:22-48674-3
+Description
+As a University Admin, I want to publish university-wide announcements so that all users stay informed
+As a Faculty Member, I want to post course announcements so that enrolled students receive course updates
+As any User, I want to view announcements so that I am aware of important news and events
