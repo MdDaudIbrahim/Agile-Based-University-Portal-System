@@ -1,9 +1,0 @@
-Description
-As a System Admin, I want to add courses so that new courses can be offered
-As a System Admin, I want to update courses so that course information stays accurate
-As a System Admin, I want to delete/remove courses so that outdated courses are removed
-As a Student, I want to browse the course list so that I can see available courses
-As a Student, I want to see course section status (Open/Closed) so that I can decide before registering
-As a Faculty, I want to view assigned courses so that I can manage my teaching
-As a Faculty, I want to view enrolled students so that I can track my class
-As a System Admin, I want to assign faculty to courses so that teaching responsibilities are set
