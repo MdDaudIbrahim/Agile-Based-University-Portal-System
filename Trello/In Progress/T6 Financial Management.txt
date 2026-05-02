@@ -14,3 +14,11 @@ As a University Admin, I want to generate and assign fee invoices to students so
 As a Student, I want to view my tuition fee and outstanding balance so that I can track my financial obligations
 
 As a Student, I want to make fee payment through the portal so that I can clear my dues conveniently online
+Assigned to: Nusrat Jahan Lamiya
+ID:23-50098-1
+Description
+As a University Admin, I want to generate and assign fee invoices to students so that students receive correct billing
+
+As a Student, I want to view my tuition fee and outstanding balance so that I can track my financial obligations
+
+As a Student, I want to make fee payment through the portal so that I can clear my dues conveniently online
